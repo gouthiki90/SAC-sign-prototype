@@ -1,10 +1,9 @@
-import Test from "./test";
+import LoginForm from "@/components/signIn/joinForm";
 
 export default function Home() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <Test />
+      <LoginForm />
     </>
   );
 }
