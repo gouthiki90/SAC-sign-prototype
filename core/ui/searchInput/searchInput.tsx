@@ -25,7 +25,7 @@ const SearchInput: React.FC<Input> = ({
             name={name}
             type="text"
             {...props}
-            className="rounded focus:outline-none border-0 bg-gray-300 px-4 py-2 w-1/3 h-9"
+            className="rounded focus:outline-none border-0 bg-gray-300 px-4 py-2 w-1/4 h-9"
           />
         </div>
       </div>
